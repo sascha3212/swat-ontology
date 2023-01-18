@@ -4,16 +4,16 @@
 
 @prefix swat: <http://w3id.org/swat/> .
 
-swat: rdf:type owl:Ontology ;
+swat: rdf:type owl:Ontology .
 
-swat:Oink a rdfs:Class ;
+swat:Oink a rdfs:Class .
 
-swat:Person a rdfs:Class ;
+swat:Person a rdfs:Class .
 
-swat:postedBy a rdf:Property ;
+swat:postedBy a rdf:Property .
 
-swat:postedAt a rdf:Property ;
+swat:postedAt a rdf:Property .
 
-swat:postedOn a rdf:Property ;
+swat:postedOn a rdf:Property .
 
-swat:text a rdf:Property ;
+swat:text a rdf:Property .
